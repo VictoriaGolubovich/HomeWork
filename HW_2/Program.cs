@@ -63,4 +63,16 @@
 // 32679 -> 6
 
 
+// Console.WriteLine("Введите число");
+// int num = Convert.ToInt32(Console.ReadLine());
 
+// while (num>999)
+// {
+//     num = num/10;
+// }
+// Console.WriteLine(num%10);
+
+// if (num<100)
+// {
+//     Console.WriteLine("третьей цифры нет");
+// }
