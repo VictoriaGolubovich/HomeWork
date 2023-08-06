@@ -1,0 +1,15 @@
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.csproj.AssemblyReference.cache
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.AssemblyInfoInputs.cache
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.AssemblyInfo.cs
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.csproj.CoreCompileInputs.cache
+/Users/pavel/Desktop/C#/HW_6/bin/Debug/net6.0/HW_6
+/Users/pavel/Desktop/C#/HW_6/bin/Debug/net6.0/HW_6.deps.json
+/Users/pavel/Desktop/C#/HW_6/bin/Debug/net6.0/HW_6.runtimeconfig.json
+/Users/pavel/Desktop/C#/HW_6/bin/Debug/net6.0/HW_6.dll
+/Users/pavel/Desktop/C#/HW_6/bin/Debug/net6.0/HW_6.pdb
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.dll
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/refint/HW_6.dll
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.pdb
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/HW_6.genruntimeconfig.cache
+/Users/pavel/Desktop/C#/HW_6/obj/Debug/net6.0/ref/HW_6.dll
