@@ -4,10 +4,10 @@
 // [345, 897, 568, 234] -> 2
 
 
-// double [] array= new double [4];
+// int [] array= new int [4];
 
-// double count=0;
-// for (double i = 0; i < array.Length; i++)
+// int count=0;
+// for (int i = 0; i < array.Length; i++)
 // {
 //     array[i] = new Random().Next(100,1000);
 //     System.Console.Write(array[i]+ " "); 
@@ -26,12 +26,12 @@
 // [-4, -6, 89, 6] -> 0
 
 
-// double [] array= new double [4];
+// int [] array= new int [4];
 
-// double sum=0;
-// double k=0;
+// int sum=0;
+// int k=0;
 
-// for (double i = 0; i < array.Length; i++)
+// for (int i = 0; i < array.Length; i++)
 // {
 //     array[i] = new Random().Next(-10,100);
 //     System.Console.Write(array[i]+ " ");    
