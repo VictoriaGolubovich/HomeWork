@@ -60,26 +60,22 @@
 
 
 
-// Console.WriteLine("Введите число"); 
-// int num = Convert.ToInt32(Console.ReadLine()); 
+Console.WriteLine("Введите число"); 
+int num = Convert.ToInt32(Console.ReadLine()); 
 
-// Console.WriteLine("Введите степень числа"); 
-// int num2 = Convert.ToInt32(Console.ReadLine()); 
+Console.WriteLine("Введите число"); 
+int num2 = Convert.ToInt32(Console.ReadLine()); 
 
-// int Pow(int m, int n) 
-// {   
-//     if(m==0)   
-//     {     
-//         return n+1;   
-//     }   
-//     if(m==1)   
-//     {     
-//         return n+2;   
-//     }   
-//     if(m==2)   
-//     {     
-//         return 2*n+3; 
-//     }   
-//     return ((m * Pow(m, n-1))-3); 
-// } 
-// Console.WriteLine(Pow(num,num2));
+int Akkerman(int m, int n) 
+{   
+    if(m==0)   
+    {     
+        return n+1;   
+    }   
+    if(n==0)   
+    {     
+        return Akkerman(m-1,1);   
+    }   
+    return Akkerman(m-1,Akkerman(m,n-1)); 
+} 
+Console.WriteLine(Akkerman(num,num2));
